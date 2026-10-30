@@ -1,5 +1,9 @@
 # ubuntu-desktop-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/ubuntu-desktop-or-just-updated-full-xfce?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Ubuntu Desktop template](https://railway.com/deploy/ubuntu-desktop-or-just-updated-full-xfce?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 A Railway wrapper around [`linuxserver/webtop:ubuntu-xfce`](https://docs.linuxserver.io/images/docker-webtop/) —
 a full Ubuntu XFCE desktop streamed to the browser over a single HTTP port.
 
